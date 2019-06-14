@@ -1,0 +1,35 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jun 11 15:59:04 2019
+
+@author: Amisha Garg
+"""
+
+[
+{
+        "Name":{
+                    "Fname": "Ajay",
+                    "Lname": "sharma"
+                },
+        "photo": "url",
+        "Dept":"CSE",
+        "Research areas":["ML","AI"],
+        "contact details":{
+                    "Phone":["123","4435"],
+                    "Email":["fesdgrd@dsfs"]
+        }
+},
+{
+        "Name":{
+                    "Fname": "Ajay",
+                    "Lname": "sharma"
+                },
+        "photo": "url",
+        "Dept":"CSE",
+        "Research areas":["ML","AI"],
+        "contact details":{
+                    "Phone":["123","4435"],
+                    "Email":["fesdgrd@dsfs"]
+        }
+}
+]
